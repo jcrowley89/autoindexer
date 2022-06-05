@@ -17,7 +17,7 @@ fs.writeFile(config[type].dir + "/" + fileName + ".js", "", (err) => {
   if (err) {
     console.log(err);
   } else {
-    console.log("FIle created successfully.");
+    console.log("File created successfully.");
   }
 });
 
