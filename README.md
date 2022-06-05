@@ -1,6 +1,7 @@
 ## Installation
 - clone repo.
 - run `npm install -g .` in that directory.
+- run `aidx --version` to confirm installation.
 
 ## Usage
 - create an `autoindexer.json` file in your project directory. This file will define the module file types for your project and which directory to write the files to.
